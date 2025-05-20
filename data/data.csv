@@ -1,0 +1,221 @@
+patient_id,age,weight_kg,gender,infection_type,symptoms,allergies,severity_level,recommended_antibiotic
+3ad21ad3-6ce8-41fd-b7ae-8afa38a041fa,46,118.4,Male,Fungal,"swelling, rash",Sulfa,Moderate,Fluconazole
+8fd2b82a-3e46-4d7e-a2e8-e234cf05c4d3,26,56.7,Other,Fungal,"swelling, redness",None,Moderate,Fluconazole
+9f79ed26-0239-41c5-bf2d-4d5d3b1b83fb,19,111.4,Other,Fungal,"itching, redness",Sulfa,Severe,Fluconazole
+a97d84c4-7fdb-44aa-a4af-89a7b5feacc1,81,30.4,Other,Fungal,"rash, itching",Sulfa,Mild,Itraconazole
+024e46a1-78ae-4bdd-a23b-39ab31a8c6cd,73,64.8,Female,Fungal,"rash, itching",Aspirin,Moderate,Fluconazole
+ff8a0ccb-daa7-4a72-b1b9-d363ad0625ce,80,76.7,Female,Bacterial,"cough, fever",None,Severe,Doxycycline
+a505f950-33bd-41ec-8313-0b5a1cf74ab3,82,72.4,Other,Viral,"sore throat, body ache",None,Severe,None
+fcb60645-08d1-49e6-9b35-053077d4ffbf,73,62.4,Other,Bacterial,"chills, fatigue",Aspirin,Mild,Amoxicillin
+5b5cd4fd-03a3-4273-9115-8d1e233e7d10,8,68.6,Male,Bacterial,"chills, cough",Aspirin,Mild,Doxycycline
+35b266c4-afe0-4943-9f03-bdb209e085b2,73,86.6,Male,Fungal,"swelling, rash",Penicillin,Severe,Fluconazole
+dbb6bf18-ff23-4f9a-ac7b-44c1c0f422d1,37,81.9,Male,Bacterial,"cough, chills",Penicillin,Moderate,Doxycycline
+0352264f-4769-436a-94eb-456e5cafe6e5,89,100.8,Female,Viral,"body ache, runny nose",Penicillin,Mild,None
+887fe3e6-fb78-4334-8632-3900004f92a9,49,102.2,Male,Viral,"runny nose, body ache",Aspirin,Moderate,None
+a3d615ff-f945-4ed0-90e8-26d71f54eb39,32,78.1,Male,Bacterial,"cough, fatigue",Aspirin,Moderate,Ciprofloxacin
+09b82f52-19fe-45e1-9ead-4621a6cfa7e6,63,19.0,Male,Viral,"sore throat, fever",None,Mild,Supportive Care
+600be95e-c1a3-4c60-8c23-4a9f28e4b32b,87,41.4,Other,Fungal,"itching, redness",None,Severe,Fluconazole
+947b651c-aac9-466d-9c20-c293ccf41054,72,18.0,Female,Viral,"body ache, sore throat",Aspirin,Mild,None
+2c35fe04-989f-4fdf-9c00-058d6bc3988e,59,21.7,Male,Viral,"runny nose, body ache",Aspirin,Severe,None
+e165caa8-ccf3-42b4-b1cb-49327dd28d6a,37,26.0,Female,Fungal,"rash, redness",Aspirin,Moderate,Fluconazole
+fa3b591a-e32d-415b-a9b6-fcc17756fd73,60,83.1,Male,Fungal,"itching, swelling",Aspirin,Mild,Fluconazole
+7ea52349-64c6-48fc-a68d-b893be4f3b05,90,78.0,Other,Bacterial,"fatigue, cough",Aspirin,Moderate,Doxycycline
+a89b3be9-9674-451c-83ae-5574e483c11f,72,92.0,Female,Bacterial,"cough, fatigue",Aspirin,Moderate,Amoxicillin
+b041b7d1-9bc7-496f-93a1-77a12477d841,33,26.2,Male,Viral,"runny nose, body ache",Aspirin,Mild,Supportive Care
+fb545488-10bb-45d2-8c0a-5cbd7ad90e23,76,53.3,Other,Bacterial,"fatigue, chills",Sulfa,Moderate,Doxycycline
+0e53c9ce-25fb-450b-b040-e0d0b2e94b1e,5,100.8,Other,Bacterial,"fever, cough",Penicillin,Moderate,Amoxicillin
+d555a0a6-eafc-40e6-9bc4-9a1947c5aa04,46,21.8,Other,Fungal,"swelling, redness",Sulfa,Mild,Fluconazole
+01b1e128-da38-496f-9e38-f05dacd8be57,2,95.6,Other,Fungal,"rash, redness",Aspirin,Severe,Itraconazole
+2019bf2e-7dda-4faa-be84-0b47a368e889,86,52.4,Female,Fungal,"itching, redness",None,Severe,Itraconazole
+c5b41c0b-717a-4a5f-ad4f-aa19fe39220f,58,38.0,Other,Fungal,"itching, redness",Aspirin,Mild,Itraconazole
+9eceea95-d483-49a9-b2a3-dc02d3729033,71,18.5,Female,Bacterial,"fever, fatigue",Penicillin,Severe,Ciprofloxacin
+f69b98ea-5d54-4766-be98-3804089a4f36,57,40.0,Other,Bacterial,"chills, fatigue",Sulfa,Moderate,Ciprofloxacin
+fded3372-18c8-4e15-8367-d9835d5f8289,57,53.4,Female,Viral,"sore throat, fever",Sulfa,Mild,None
+70f773b0-752b-4eb5-bd1d-5a15c5f7e36f,9,80.0,Other,Bacterial,"fever, fatigue",Aspirin,Moderate,Amoxicillin
+12abf64a-1247-4522-a4ef-01d61b8cdaaf,3,22.5,Female,Viral,"runny nose, body ache",None,Moderate,Supportive Care
+f7f75bee-8152-43e7-802b-a7f8c0c7eecb,6,30.7,Male,Fungal,"swelling, redness",Penicillin,Moderate,Fluconazole
+9bc8f8e6-85ab-4283-ad5b-4024638a89ab,7,86.3,Male,Viral,"runny nose, sore throat",None,Mild,None
+46bbdcf8-7c3e-4c44-9fde-3396a5d3b0a8,38,83.7,Male,Fungal,"itching, rash",Penicillin,Severe,Fluconazole
+f1340069-fe0a-42fc-9df0-42faba2ed536,19,16.9,Other,Viral,"body ache, runny nose",None,Severe,Supportive Care
+461a5edf-db0e-492c-83d2-8afb1bd7e6d8,68,15.2,Other,Fungal,"redness, swelling",None,Severe,Itraconazole
+ea1b2ce0-da37-4a0f-b6fe-0e5702740cf3,90,30.4,Female,Bacterial,"cough, fatigue",Penicillin,Severe,Amoxicillin
+f36f80a5-eaca-479a-953a-5a4acc865f0f,63,48.5,Female,Fungal,"swelling, rash",Penicillin,Severe,Fluconazole
+a15d43d3-892f-454c-934a-de6e588e4cf7,31,53.3,Female,Fungal,"redness, rash",Penicillin,Moderate,Itraconazole
+feeba800-0827-4538-825f-11343a27bebb,78,88.4,Female,Bacterial,"fatigue, chills",Penicillin,Severe,Amoxicillin
+0075a889-0425-4ff4-b754-19f6f6ad5aa6,76,114.5,Female,Fungal,"swelling, rash",Penicillin,Moderate,Itraconazole
+7e6b7b27-4e6c-4601-aac9-8b2c3c0c5687,63,15.0,Male,Bacterial,"chills, fever",Penicillin,Mild,Doxycycline
+883f998e-4ff7-4fd7-8940-4ade93fb2201,23,77.3,Male,Viral,"body ache, sore throat",None,Mild,None
+9c01e420-c32c-4b44-8363-419fddbe251c,17,16.7,Female,Bacterial,"fever, fatigue",Aspirin,Severe,Amoxicillin
+957bca50-f603-4186-9846-664c20cb7e3b,16,93.3,Other,Bacterial,"cough, fever",None,Mild,Ciprofloxacin
+1e501f19-fd19-476a-9141-0ae1405f5e8f,14,61.6,Other,Fungal,"redness, rash",None,Severe,Fluconazole
+a114594b-8e38-43e2-b18d-68147bfdbeeb,3,58.0,Female,Bacterial,"fatigue, fever",None,Mild,Doxycycline
+ce03a9da-bc26-4959-9a4d-08b4bc6e48bf,34,97.8,Female,Fungal,"itching, swelling",Sulfa,Moderate,Itraconazole
+76e9dc56-e470-4926-a941-50b98ecac00e,74,13.1,Male,Fungal,"swelling, itching",Sulfa,Severe,Fluconazole
+7fbbcb36-a875-4335-a1bb-1c414db91665,21,84.3,Male,Viral,"fever, sore throat",Sulfa,Severe,None
+d23421b5-220f-4be5-911c-d9808adfc279,22,56.5,Female,Viral,"runny nose, body ache",Aspirin,Moderate,None
+1a8d6277-3e73-46cf-bb5f-df89016ef162,7,34.3,Other,Bacterial,"chills, cough",Sulfa,Moderate,Amoxicillin
+ea91a215-acc6-45d7-8efd-4829b730d128,38,56.4,Female,Viral,"runny nose, body ache",Aspirin,Moderate,Supportive Care
+93581d13-c7ee-420a-b590-86b136059832,86,69.1,Other,Bacterial,"cough, fever",Sulfa,Severe,Doxycycline
+a44ac6bd-c865-40c6-a907-36b2cabb3905,29,30.0,Female,Fungal,"itching, redness",None,Mild,Fluconazole
+76464cb8-6b51-4628-a9fa-b260867c30c6,78,33.0,Other,Fungal,"itching, rash",None,Mild,Fluconazole
+a2f48e21-f169-484e-b9d2-365fbcda59bd,54,40.3,Other,Fungal,"swelling, rash",None,Moderate,Itraconazole
+880ce981-5593-44f6-8328-67ea8a113a35,3,93.6,Male,Fungal,"rash, swelling",Aspirin,Moderate,Fluconazole
+b21bcfed-197c-4d6d-874d-21a734a8c932,73,62.9,Other,Fungal,"rash, redness",None,Mild,Itraconazole
+ddcdac1c-5add-403c-be19-f672de82320e,48,42.8,Male,Viral,"sore throat, body ache",Aspirin,Mild,None
+ad4647f9-cce8-4cfb-acf4-3ed06c99bca0,12,64.2,Female,Fungal,"swelling, itching",Penicillin,Moderate,Fluconazole
+64d67eee-5a1e-41d3-b43a-fb83d26a472a,13,16.2,Female,Bacterial,"fever, fatigue",Aspirin,Moderate,Amoxicillin
+305d839c-7408-4608-b317-8c1426913f06,56,111.1,Female,Viral,"fever, body ache",Aspirin,Moderate,Supportive Care
+6641eddc-8e3b-40e8-b172-4ecd00ba1fed,87,99.0,Other,Fungal,"swelling, rash",Aspirin,Mild,Itraconazole
+34cd274e-3033-4d7e-af8c-b28ee89feb9d,19,18.8,Other,Viral,"body ache, sore throat",Sulfa,Severe,Supportive Care
+23ab2bae-89ee-40e2-82a8-255dd70e3c26,6,113.7,Female,Viral,"sore throat, runny nose",Aspirin,Mild,None
+c42a666f-7db9-4b32-8d6e-72c3f6fbb43d,73,74.4,Male,Bacterial,"fatigue, chills",Sulfa,Moderate,Amoxicillin
+4f86746f-b892-4a38-b378-76d56639b533,84,85.3,Male,Viral,"runny nose, sore throat",Penicillin,Mild,None
+e634f6cf-861a-4898-829b-033ca195b923,55,70.4,Female,Bacterial,"fatigue, fever",Aspirin,Severe,Ciprofloxacin
+07ce710f-dfc5-48c6-8657-a61942c8a7f2,45,97.9,Other,Fungal,"redness, rash",Sulfa,Severe,Itraconazole
+69585a0a-46a8-4601-b4cc-c2eef3413b55,79,28.2,Male,Viral,"body ache, sore throat",Sulfa,Severe,None
+b47db47a-df8b-47d3-bed8-bca57ccf3cfd,36,83.6,Female,Bacterial,"cough, fever",Aspirin,Moderate,Doxycycline
+cb081cd2-fe0d-4501-91e9-2996efe461a3,78,47.1,Female,Viral,"body ache, runny nose",Aspirin,Moderate,None
+3e3b4685-2eb1-4fcd-b364-6d4fc04547eb,89,73.7,Male,Viral,"runny nose, body ache",Penicillin,Moderate,None
+8ad1010a-cd9b-4adf-bae3-ff03cb832bef,84,32.6,Male,Bacterial,"fatigue, chills",Sulfa,Severe,Ciprofloxacin
+af1a5d76-4885-48e0-85fa-1182cbfa9ec4,47,69.1,Male,Fungal,"rash, swelling",Aspirin,Moderate,Itraconazole
+fa6c6604-6358-4ec8-91b9-d5abe535415b,71,53.1,Female,Bacterial,"cough, chills",Penicillin,Severe,Doxycycline
+442ffc5e-0a20-4b6b-b413-61375527d222,79,82.0,Other,Bacterial,"fever, chills",None,Severe,Doxycycline
+ec312922-5a09-4087-9bbd-219075273f05,87,51.0,Male,Bacterial,"chills, fever",Sulfa,Moderate,Ciprofloxacin
+6d0e45c4-b8b1-4137-bd53-4049d150c8b4,43,21.3,Other,Viral,"sore throat, fever",Penicillin,Severe,Supportive Care
+29804da2-4d73-4547-b841-0dae39e97538,55,65.1,Other,Bacterial,"fatigue, fever",Sulfa,Moderate,Amoxicillin
+2c10deef-ed70-4abe-b627-0ac3ed411af9,44,14.1,Male,Fungal,"rash, swelling",Aspirin,Severe,Itraconazole
+bcd35579-aa77-4624-b3ad-085ea5718e3d,46,79.2,Male,Bacterial,"fatigue, chills",Aspirin,Severe,Amoxicillin
+61b3981e-fb68-421d-b18b-e9e00cb269b8,7,60.0,Male,Fungal,"swelling, rash",Aspirin,Mild,Fluconazole
+629a1b8c-ba33-4fdb-9747-5a566630e28e,42,58.9,Other,Fungal,"redness, swelling",Sulfa,Moderate,Fluconazole
+dff4a871-73b7-408b-9eb3-992eb0333c64,33,101.4,Female,Fungal,"rash, itching",None,Moderate,Itraconazole
+3195e6a9-f7f8-4386-8aba-4009d0cc7999,43,52.9,Other,Fungal,"rash, swelling",Penicillin,Moderate,Itraconazole
+1861f547-fd74-445e-b9e7-091a364db89a,46,29.9,Female,Fungal,"redness, itching",Sulfa,Moderate,Fluconazole
+be6885d8-c517-4ae7-82ff-764c9ca6049e,63,84.8,Other,Viral,"body ache, sore throat",Penicillin,Moderate,None
+e9b9f17c-4bed-41a6-a208-fd02972fcef1,90,21.3,Female,Viral,"sore throat, runny nose",Aspirin,Severe,None
+d6f08679-ccd6-42ff-adbc-d29e010774ca,72,46.2,Male,Bacterial,"cough, fever",None,Moderate,Doxycycline
+231ae6aa-82dc-49bd-b2dc-111bb20b5dbf,15,104.6,Other,Bacterial,"chills, fever",Aspirin,Mild,Amoxicillin
+2f75e64f-509e-4fb3-a561-c52ffecaa1c3,22,26.7,Male,Bacterial,"cough, chills",Sulfa,Moderate,Ciprofloxacin
+6e4449e2-0256-4b21-aad2-a2290ca540c8,35,66.5,Other,Fungal,"redness, swelling",Sulfa,Severe,Itraconazole
+20f0c668-e588-4966-8a48-6b6e6f6f2d90,2,112.3,Other,Bacterial,"fatigue, chills",Penicillin,Mild,Doxycycline
+2380a976-495c-413b-bc46-44c83270cc3c,41,116.0,Male,Viral,"body ache, runny nose",None,Mild,Supportive Care
+678add12-3133-417e-9962-a5b53052ff1c,28,68.8,Other,Fungal,"rash, itching",None,Moderate,Fluconazole
+38fe9ef7-8f28-4f67-a970-5e16489049f1,78,110.8,Male,Bacterial,"chills, cough",Aspirin,Severe,Ciprofloxacin
+4b58d699-292e-46ca-bece-ab0249fda1ec,1,60.4,Female,Fungal,"rash, itching",None,Moderate,Itraconazole
+cdc9bd0b-bbeb-45e0-bec8-5e71821cdbe9,62,117.6,Female,Viral,"sore throat, runny nose",None,Moderate,Supportive Care
+b351c8f3-b9a5-4cf4-be78-f495ab4d0f2d,81,27.5,Other,Viral,"fever, runny nose",None,Moderate,Supportive Care
+f91c5637-e2dd-4dfc-8cde-bf177de26be2,42,52.0,Other,Viral,"sore throat, runny nose",Penicillin,Mild,None
+d01efbb9-dde9-433c-a70c-919df3aed313,19,61.4,Other,Fungal,"swelling, rash",Aspirin,Moderate,Fluconazole
+fb98ffe2-117e-48e1-8542-665eea0e0b69,90,108.4,Female,Fungal,"rash, swelling",Sulfa,Severe,Itraconazole
+b9ba3555-71aa-40aa-817e-16245474b2cd,71,100.1,Male,Viral,"fever, runny nose",None,Moderate,Supportive Care
+a86e7d3f-de45-4e25-a791-f94968feb112,82,30.6,Male,Fungal,"itching, rash",Aspirin,Severe,Fluconazole
+993f875a-76e1-4f17-8daf-1474ed359dfa,10,40.2,Male,Fungal,"rash, itching",None,Moderate,Itraconazole
+94b2f0bb-0856-4946-a3c5-f291d7bd0829,74,30.2,Female,Fungal,"rash, itching",None,Severe,Fluconazole
+b58b4e31-ef41-4ddb-b025-165e289e6cd0,50,32.9,Male,Viral,"body ache, fever",Aspirin,Mild,Supportive Care
+370e507c-8947-4887-82e0-2ac8b4be527f,22,45.1,Female,Fungal,"itching, swelling",Aspirin,Severe,Fluconazole
+78d1ca9b-6f53-4de5-b8d5-7b464fae58b9,68,46.8,Male,Viral,"sore throat, runny nose",Sulfa,Moderate,None
+95eba20d-ff7d-44da-a78a-6593d09bd65e,4,20.2,Other,Fungal,"redness, swelling",Aspirin,Mild,Fluconazole
+24410979-be6b-4da5-a85b-dbf584e981fe,61,117.4,Female,Viral,"runny nose, fever",Penicillin,Moderate,Supportive Care
+1f9be381-4f7c-4677-a0a3-8f3f97769863,65,31.7,Other,Bacterial,"fever, chills",Sulfa,Severe,Ciprofloxacin
+43592842-89ce-4537-ac8a-977eeed29214,88,19.9,Other,Viral,"fever, runny nose",Sulfa,Severe,Supportive Care
+d21efbc3-cf1e-4ff9-a6d6-b044c90d11a7,66,109.1,Male,Viral,"fever, sore throat",Sulfa,Severe,None
+90b046d4-395e-434d-83ad-1079477c4a58,82,69.5,Male,Fungal,"rash, swelling",Sulfa,Moderate,Itraconazole
+722e41b0-470a-4dcc-b744-88a1e4cc0d96,66,96.8,Female,Fungal,"redness, rash",Penicillin,Mild,Fluconazole
+8c338dd7-f435-4e44-afcd-99c945089fba,82,17.7,Other,Fungal,"rash, redness",Penicillin,Severe,Itraconazole
+7a97b485-e907-415e-bf78-e4b42dffb0fe,4,117.0,Female,Bacterial,"chills, fever",Aspirin,Moderate,Amoxicillin
+d0a939ef-077f-42c8-941e-0c6b2bb79df4,81,84.2,Female,Viral,"fever, runny nose",Penicillin,Mild,Supportive Care
+ddb487ba-0d49-4b77-94d3-dc63ae70bdd7,68,97.7,Male,Fungal,"redness, itching",None,Severe,Fluconazole
+fdc50750-5dc9-4efa-81d5-9af5ad190d33,55,107.4,Female,Fungal,"itching, rash",Penicillin,Moderate,Itraconazole
+841b9f86-dabc-447e-ba82-abc9922bfdfd,25,116.0,Female,Fungal,"redness, rash",Penicillin,Moderate,Fluconazole
+ff2c13fe-2f96-4e64-9b68-0e768a35a2c6,85,78.6,Female,Viral,"runny nose, sore throat",Sulfa,Severe,None
+5b4717a4-881b-49b9-bb8c-8dabefc347f8,5,17.1,Other,Viral,"body ache, fever",Penicillin,Mild,Supportive Care
+273f6877-ffe4-4b19-a86d-4e6864e4eb0f,80,56.3,Other,Viral,"runny nose, sore throat",None,Moderate,None
+43fcab42-ec5c-4df0-bf8c-42904c86d625,41,67.9,Male,Fungal,"swelling, redness",None,Moderate,Itraconazole
+9cb8fad0-c2a6-41c4-a088-ecb54a648379,67,12.6,Female,Bacterial,"fatigue, fever",Sulfa,Mild,Amoxicillin
+396c3931-e1ac-4ae0-b3ba-b159e1101447,68,103.8,Other,Bacterial,"chills, fever",None,Mild,Doxycycline
+d4b7a4f7-a7d7-43a5-8bf7-bd4f6e6ea69b,16,10.3,Female,Fungal,"swelling, redness",None,Severe,Fluconazole
+5bb4f754-7214-418d-b0db-d04a3b4a7ab5,50,27.4,Male,Fungal,"rash, itching",None,Moderate,Fluconazole
+4c519e85-183a-4c7e-968b-0c97371d3764,34,78.4,Male,Bacterial,"fatigue, chills",Penicillin,Moderate,Doxycycline
+59baeafb-e9d9-42fe-856e-d9bca18426e5,14,113.6,Male,Viral,"fever, body ache",Aspirin,Severe,None
+4c4dfd0c-7bb2-4a6a-8dc7-d9a1a9302d58,19,41.5,Female,Viral,"sore throat, body ache",Aspirin,Moderate,None
+2a0d9247-b371-4413-966b-f25d0df29dea,80,26.3,Male,Bacterial,"fatigue, chills",Sulfa,Moderate,Doxycycline
+468fc736-777f-40f9-8498-aa523bfc0c52,21,89.3,Male,Viral,"body ache, fever",Aspirin,Mild,Supportive Care
+436957a2-09bc-4141-b00c-585fbe09532e,47,101.9,Other,Bacterial,"fever, fatigue",Aspirin,Mild,Doxycycline
+2e60bfe9-1b30-4db7-b881-3210bef01fb5,52,86.3,Other,Fungal,"redness, swelling",Penicillin,Severe,Itraconazole
+c46833a7-e68e-45ec-8e27-1426a955d75d,20,119.7,Other,Viral,"runny nose, fever",Sulfa,Moderate,None
+653a1080-8562-40fc-af14-092535b8d8c3,86,22.3,Male,Viral,"sore throat, body ache",Sulfa,Moderate,Supportive Care
+c052b1bd-1178-41a8-9d8b-eb374d292783,63,72.9,Other,Viral,"runny nose, sore throat",Sulfa,Severe,None
+3dede82b-6319-421a-834e-df59bd20f61f,13,11.6,Male,Fungal,"redness, rash",None,Severe,Itraconazole
+ae05f5e4-afa9-450e-9b4c-b49ceedec1e7,74,117.8,Other,Bacterial,"chills, fever",None,Moderate,Amoxicillin
+ab7a92e3-4098-47a4-9667-dd43faa798da,42,82.2,Other,Bacterial,"fatigue, cough",None,Moderate,Ciprofloxacin
+3a58e353-c6bc-4fdb-8c8f-37021f34cb33,18,79.7,Male,Viral,"body ache, fever",None,Moderate,None
+a851e729-39d8-40ba-824b-d3545304efd0,51,23.9,Female,Fungal,"itching, rash",Sulfa,Mild,Itraconazole
+5f751b12-b76d-4bac-b191-c29ba55e7885,83,78.1,Other,Fungal,"swelling, itching",None,Severe,Fluconazole
+bf087b8d-b231-4fdb-b6e5-fdb498d0e2b3,23,105.3,Male,Bacterial,"chills, fatigue",None,Severe,Amoxicillin
+60116a9d-4764-41fe-81fe-7196a6b20656,6,51.1,Male,Bacterial,"fatigue, chills",None,Moderate,Amoxicillin
+2e402b4d-7406-46ca-8b37-f7eeb3d1b40d,64,60.8,Male,Viral,"runny nose, fever",Sulfa,Moderate,Supportive Care
+b6049f51-2195-4265-a9f4-0dd4aa05cae0,49,25.6,Female,Viral,"body ache, sore throat",None,Severe,None
+8efe1734-ef14-43db-8cc7-61febd97a36d,70,34.5,Female,Viral,"fever, sore throat",Aspirin,Moderate,None
+2eaa4e16-848c-48a0-9656-3328d0832f66,49,84.5,Other,Bacterial,"cough, fever",Aspirin,Moderate,Ciprofloxacin
+8abc8b71-d1de-473a-b719-ae15c10fee9b,11,62.9,Other,Bacterial,"chills, cough",Aspirin,Severe,Ciprofloxacin
+c1d61419-0876-4c10-abfb-ed988653f8eb,89,72.9,Female,Fungal,"itching, swelling",Aspirin,Mild,Fluconazole
+34534895-6878-409a-baf9-b1045e8e50ea,68,84.9,Male,Bacterial,"cough, chills",Sulfa,Mild,Ciprofloxacin
+2bdc8b64-ba31-49cc-ab2a-89b6c5ed930d,60,32.4,Other,Bacterial,"fatigue, cough",Sulfa,Mild,Doxycycline
+b10c3182-ea7f-4980-a8cb-c727cd61b880,86,59.0,Other,Fungal,"redness, swelling",Aspirin,Mild,Fluconazole
+72817862-6a4e-4b95-b613-ac8d6f4cafdc,18,19.5,Male,Viral,"fever, runny nose",Aspirin,Severe,None
+8cc08311-6648-46ad-bf32-0c4607769ee6,27,37.7,Male,Viral,"body ache, runny nose",Penicillin,Mild,Supportive Care
+b92c9694-901b-484b-aedf-54b64e4d68d7,81,110.2,Female,Fungal,"rash, redness",Penicillin,Mild,Itraconazole
+39d42731-a4a5-449e-933c-c0d27cfd93f5,55,79.1,Male,Fungal,"swelling, itching",Sulfa,Mild,Fluconazole
+3e4c6801-8368-4f04-a5bb-b2843667c2ca,79,38.8,Female,Fungal,"redness, swelling",Aspirin,Severe,Fluconazole
+a8bcbf08-ac44-4a84-b4c6-484f964422b3,10,88.7,Male,Viral,"sore throat, runny nose",Sulfa,Mild,Supportive Care
+94a005f5-ae57-4f0d-817c-b2570b97bfab,28,80.0,Female,Fungal,"redness, swelling",Penicillin,Mild,Itraconazole
+41642cd9-43d9-4ccd-8718-9b9d0f31dda8,13,42.9,Male,Bacterial,"cough, chills",None,Mild,Ciprofloxacin
+a2349273-abdb-441d-b7ee-86abb8f85efa,75,90.2,Male,Viral,"sore throat, fever",Penicillin,Mild,Supportive Care
+d7a3b0c9-9427-4c8f-9514-d3ba38c8bb59,87,105.1,Female,Fungal,"swelling, rash",Sulfa,Moderate,Fluconazole
+430a5409-3f2b-441e-b400-919f5807dca9,65,22.2,Other,Bacterial,"chills, fatigue",Aspirin,Severe,Ciprofloxacin
+cb0b1a4d-07bc-4f95-b9c0-9a9d5aa93bba,28,103.5,Other,Fungal,"itching, rash",Aspirin,Severe,Itraconazole
+ba089ac9-0e7e-4982-b26c-80f8b5c39235,45,98.1,Other,Bacterial,"chills, fever",None,Severe,Ciprofloxacin
+1c9e6711-e56a-4baf-9461-a4d9a956514a,82,27.9,Other,Fungal,"redness, swelling",None,Moderate,Fluconazole
+291494e9-8d95-45cb-8b7a-da9fe061ca35,8,69.0,Male,Bacterial,"chills, fever",Sulfa,Mild,Ciprofloxacin
+0b72a714-79d6-42b9-b545-2c2210061766,26,93.1,Other,Viral,"sore throat, runny nose",Sulfa,Severe,Supportive Care
+cdf25215-7657-4310-821b-6e29078e909e,89,63.5,Other,Bacterial,"fatigue, chills",None,Moderate,Ciprofloxacin
+37373f5c-2479-4550-bd92-bf63b64c09da,39,97.4,Male,Bacterial,"fever, chills",None,Moderate,Ciprofloxacin
+ceacc1df-c82d-467b-80ad-fbf0846c5f74,62,24.1,Female,Bacterial,"chills, cough",Penicillin,Severe,Doxycycline
+9401d273-c56c-4e0b-9d89-95c31eef8e61,29,111.3,Other,Bacterial,"fatigue, fever",Penicillin,Severe,Doxycycline
+812f0c3e-3bf5-4409-b6ed-b25939ff21df,26,90.3,Male,Bacterial,"fever, fatigue",None,Moderate,Ciprofloxacin
+37201cd3-90de-40a3-9e15-a787d34f0501,81,96.5,Other,Viral,"runny nose, sore throat",None,Mild,Supportive Care
+549bd706-617e-4cdf-b823-6bd13771cbb4,52,61.1,Female,Viral,"sore throat, fever",Penicillin,Mild,None
+7280e9ab-b6e3-4141-a54e-89a6d8abf8d2,72,30.5,Male,Bacterial,"cough, fever",Aspirin,Moderate,Amoxicillin
+9f049af4-a3c2-4c3f-bb7c-0f3e8d8a1b42,34,113.5,Female,Bacterial,"fever, fatigue",Sulfa,Mild,Ciprofloxacin
+5b8f9fc6-b8aa-45db-987d-1ce0f9a141fd,75,15.2,Other,Fungal,"itching, redness",None,Moderate,Fluconazole
+047cd531-63b9-4db5-a61f-cd3b58c13ae3,79,15.3,Male,Viral,"sore throat, body ache",Sulfa,Moderate,None
+91f362bc-8b0c-4051-b466-95981919856c,83,63.9,Other,Bacterial,"cough, fatigue",Sulfa,Mild,Doxycycline
+c1260c9e-6425-447e-847d-57ab402c6730,73,81.1,Other,Fungal,"itching, swelling",Aspirin,Moderate,Fluconazole
+4ca1ff81-cce7-46ac-ac9e-b32613957f50,4,33.4,Female,Fungal,"swelling, redness",Aspirin,Mild,Fluconazole
+2cfb6570-1e0d-4c4e-915c-e3fa271e5a9a,67,84.4,Other,Bacterial,"chills, fatigue",None,Severe,Doxycycline
+4e185978-a0bd-4ccb-9e29-a76a4d929816,7,25.7,Female,Viral,"runny nose, body ache",Sulfa,Severe,Supportive Care
+19c4d285-b7d3-475b-840f-6da44c0ec9d0,26,105.7,Male,Bacterial,"cough, chills",None,Mild,Amoxicillin
+ef8ddfa7-59ed-449a-8e4a-127399f8f94e,30,40.6,Other,Viral,"sore throat, runny nose",Aspirin,Mild,Supportive Care
+c61f5a09-b68b-4ef7-8e73-90b148d772e0,53,43.1,Male,Fungal,"rash, redness",Penicillin,Moderate,Itraconazole
+188341fc-a8ed-4ab2-980f-67268edaa28f,45,47.5,Female,Fungal,"rash, swelling",Penicillin,Severe,Fluconazole
+90c5ccdd-0a8d-43bc-9d4f-1a4bedc3b250,36,89.7,Female,Viral,"sore throat, body ache",None,Severe,Supportive Care
+e0a75234-19b8-4446-8444-4a0a64bf9fd5,37,109.2,Other,Bacterial,"cough, chills",Aspirin,Mild,Amoxicillin
+1f2df8b9-455c-4db1-93a9-16fa9da6ef7d,63,102.3,Male,Bacterial,"fever, fatigue",Penicillin,Severe,Amoxicillin
+c0ffeef4-7842-4708-bf91-714a050de196,65,46.8,Male,Bacterial,"chills, fever",Penicillin,Severe,Amoxicillin
+a688f1cd-ae7d-49ce-9d87-723e0dd86802,20,94.8,Other,Fungal,"rash, swelling",Penicillin,Severe,Itraconazole
+cf81f810-d4dd-4e11-9672-98fd0a011f58,46,119.2,Other,Viral,"body ache, fever",Penicillin,Moderate,None
+e7df5ed9-fa7a-4a0c-aade-c8cc5e0f7ae6,16,91.8,Male,Fungal,"swelling, rash",None,Severe,Itraconazole
+8982e3fb-ad0b-4bef-bcc4-6a944136db46,12,106.8,Female,Viral,"sore throat, body ache",Penicillin,Severe,None
+bf5d51e8-71f5-4bb4-9b26-44fd1ca65baf,85,16.2,Female,Fungal,"swelling, itching",Penicillin,Severe,Itraconazole
+ed61e0fa-7bce-4920-a598-1258d0f6cf7a,89,82.0,Female,Viral,"fever, body ache",Sulfa,Severe,Supportive Care
+797abb20-4c00-4e97-8bb1-8bdb77bc045d,75,25.9,Female,Bacterial,"cough, fever",Aspirin,Mild,Doxycycline
+567dbc89-4c6a-4862-9345-1093131639ba,78,13.8,Male,Bacterial,"fever, cough",None,Moderate,Doxycycline
+ee54f331-e788-48c6-80a5-c97b8063bad8,39,10.8,Other,Bacterial,"chills, cough",None,Mild,Doxycycline
+1298c3b2-03f8-4d09-8727-acffd0566306,44,101.0,Other,Bacterial,"chills, fatigue",None,Mild,Doxycycline
+af8b2643-09e5-4b3e-97a6-0b46d6cd5e29,32,82.2,Other,Fungal,"redness, itching",Aspirin,Moderate,Fluconazole
+d163c1d9-98be-491a-aee0-4b36e99f292e,55,92.9,Male,Fungal,"itching, redness",None,Severe,Fluconazole
+2694368d-1713-40dc-a16e-db088b89ade8,3,87.8,Female,Bacterial,"fatigue, fever",Penicillin,Severe,Doxycycline
+000d3434-f766-4bb2-b4e6-9a6dbe4834be,19,56.2,Other,Bacterial,"cough, fatigue",Aspirin,Mild,Amoxicillin
+7f1eaefe-9df3-4074-ad46-d85bf3adf24a,64,36.6,Other,Viral,"runny nose, body ache",Sulfa,Mild,Supportive Care
+f56b3faf-bca7-46fa-b943-2c41c811d6f5,72,119.4,Other,Bacterial,"chills, cough",None,Severe,Doxycycline
+50c172f9-2a35-4812-9e5b-759f0eda1591,41,65.3,Male,Bacterial,"cough, fever",Sulfa,Moderate,Doxycycline
+f85d79c1-eb0e-4047-8c31-47821bdfa162,20,17.8,Female,Viral,"fever, body ache",Aspirin,Moderate,Supportive Care
